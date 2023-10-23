@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Fixes Edified Stairs missing block tags.",
+        "pack_format": 10
+    }
+}
